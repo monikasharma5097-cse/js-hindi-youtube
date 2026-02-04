@@ -1,1 +1,1 @@
-console.log("Monika love prince");
+console.log("Monika")
